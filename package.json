@@ -1,0 +1,25 @@
+{
+  "name": "city-explorer-api",
+  "version": "1.0.0",
+  "description": "back-end api build for city-explorer",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/deshondixon/city-explorer-api.git"
+  },
+  "author": "Deshon Dixon",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/deshondixon/city-explorer-api/issues"
+  },
+  "homepage": "https://github.com/deshondixon/city-explorer-api#readme",
+  "dependencies": {
+    "axios": "^1.1.3",
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2"
+  }
+}
