@@ -29,5 +29,7 @@ Actual time needed to complete: _____
 
 ## Credit and Collaborations
 
+Followed Sheyna's example of tracey's code from lab today to try to fix my code.
+
 ## Diagram Collaboration: Brenda Jow
 <img width="959" alt="Diagram" src="https://user-images.githubusercontent.com/107225817/202034599-d52ef352-d9d8-4f8c-9677-85dc205029d0.png">
