@@ -17,15 +17,15 @@ REACT, CSS3, Javascript
 
 01-01-2001 4:59pm - Application now has a fully-functional express server, with a GET route for the location resource. -->
 
-Name of feature: ________________________________
+Name of feature: Server Back-End
 
-Estimate of time needed to complete: _____
+Estimate of time needed to complete: 6 hours
 
-Start time: _____
+Start time: 1:25pm Nov 15
 
-Finish time: _____
+Finish time: 12:54 Nov 17
 
-Actual time needed to complete: _____
+Actual time needed to complete: 2 days.
 
 ## Credit and Collaborations
 
@@ -37,4 +37,3 @@ Followed Sheyna's example of tracey's code from lab today to try to fix my code.
 
 
 <img width="963" alt="WRRC-Lab8" src="https://user-images.githubusercontent.com/107225817/202365033-4c014ec3-54f9-4e04-8bf3-97ed0bc5246e.png">
-
