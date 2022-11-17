@@ -43,7 +43,7 @@ app.get('*', (request, response) => {
 class Forecast {
   constructor(forecastObject) {
     this.date = forecastObject.valid_date;
-    this.description = forecastObject.weather.description;
+    this.description = `Low of ${forecastObject.low_temp}, high of ${forecastObject.high_temp} with ${forecastObject.weather.description}`;
   }
 }
 
