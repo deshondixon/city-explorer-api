@@ -32,7 +32,8 @@ Actual time needed to complete: _____
 Followed Sheyna's example of tracey's code from lab today to try to fix my code.
 
 ## Diagram Collaboration: Brenda Jow, Jason Christopher
-<img width="959" alt="Diagram" src="https://user-images.githubusercontent.com/10<img width="963" alt="WRRC-Lab8" src="https://user-images.githubusercontent.com/107225817/202364685-4f255155-19b4-4b11-be44-f461f3484d80.png">
+
+<img width="959" alt="Diagram" src="https://user-images.githubusercontent.com/107225817/202365134-d7106a35-95e1-4dac-8254-d106f46c7183.png">
 
 
 <img width="963" alt="WRRC-Lab8" src="https://user-images.githubusercontent.com/107225817/202365033-4c014ec3-54f9-4e04-8bf3-97ed0bc5246e.png">
