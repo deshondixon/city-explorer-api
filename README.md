@@ -27,9 +27,35 @@ Finish time: 12:54 Nov 17
 
 Actual time needed to complete: 2 days.
 
+
+Name of feature: Weather Api
+
+Estimate of time needed to complete: 2 days
+
+Start time: 1:22pm
+
+Finish time: 6:23pm 
+
+Actual time needed to complete: 4 hours 1 minute
+
+
+
+Name of feature: Movies Api
+
+Estimate of time needed to complete: 6 hours
+
+Start time: 6:30pm
+
+Finish time: TBD
+
+Actual time needed to complete: TBD
+
 ## Credit and Collaborations
 
 Followed Sheyna's example of tracey's code from lab today to try to fix my code.
+
+Followed along with Sheyna's example of harper's code from today's lab.
+TA Tammy helped me out a lot.
 
 ## Diagram Collaboration: Brenda Jow, Jason Christopher
 
