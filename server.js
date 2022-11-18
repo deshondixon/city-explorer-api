@@ -52,10 +52,6 @@ app.get('/movie', async (request, response, next) => {
   }
 });
 
-app.use((error, request, response) => {
-  response.status(500).send(error.message);
-});
-
 
 
 
@@ -63,6 +59,10 @@ app.use((error, request, response) => {
 
 app.get('*', (request, response) => {
   response.status(404).send('That route does not exist');
+});
+
+app.use((error, request, response) => {
+  response.status(500).send(error.message);
 });
 
 
@@ -82,7 +82,7 @@ class Movie {
     this.summary = movieObject.overview;
     this.averageVotes = movieObject.vote_average;
     this.totalVotes = movieObject.vote_count;
-    this.poster = movieObject.poster_path ? `http://image.tmdb.org/t/p/original/${movieObject.poster_path}` : '';
+    this.poster = movieObject.poster_path ? `http://image.tmdb.org/t/p/original//${movieObject.poster_path}` : '';
     this.releasedDate = movieObject.released_date;
   }
 }
