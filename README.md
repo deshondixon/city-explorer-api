@@ -19,7 +19,7 @@ REACT, CSS3, Javascript
 
 Name of feature: Server Back-End
 
-Estimate of time needed to complete: 6 hours
+Estimate of time needed to complete: 3 hours
 
 Start time: 1:25pm Nov 15
 
@@ -30,7 +30,7 @@ Actual time needed to complete: 2 days.
 
 Name of feature: Weather Api
 
-Estimate of time needed to complete: 2 days
+Estimate of time needed to complete: 3 days
 
 Start time: 1:22pm
 
@@ -44,11 +44,34 @@ Name of feature: Movies Api
 
 Estimate of time needed to complete: 6 hours
 
-Start time: 6:30pm
+Start time: 6:30pm Nov 18
 
-Finish time: TBD
+Finish time: 1:53pm Nov 20
 
-Actual time needed to complete: TBD
+Actual time needed to complete: 2 days
+
+
+
+Name of feature: Weather Api
+
+Estimate of time needed to complete: 8 hours
+
+Start time: 2:30pm 
+
+Finish time: 11:53pm 
+
+Actual time needed to complete: 2 days
+
+
+Name of feature: Refactor Back-End
+
+Estimate of time needed to complete: 4 hours
+
+Start time: 1:03pm 
+
+Finish time: 3:18pm 
+
+Actual time needed to complete: 2 hours 15 minutes
 
 ## Credit and Collaborations
 
