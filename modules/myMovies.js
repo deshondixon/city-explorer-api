@@ -2,7 +2,7 @@
 
 const axios = require('axios');
 
-let cache = require('./modules/cache.js');
+let cache = require('./cache.js');
 
 async function getMovies(request, response, next) {
   try {

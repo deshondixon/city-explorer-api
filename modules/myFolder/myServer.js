@@ -8,8 +8,8 @@ const express = require('express');
 const cors = require('cors');
 
 //----------------------------------------------
-const getWeather = require('./weather.js');
-const getMovies = require('./movies.js');
+const getWeather = require('../weather.js');
+const getMovies = require('../movies.js');
 
 //----------------------------------------------
 const app = express();
