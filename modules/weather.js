@@ -5,7 +5,7 @@ let cache = require('./cache.js');
 module.exports = getWeather;
 function getWeather(latitude, longitude) {
   const key = 'weather-' + latitude + longitude;
-  const url = `http://api.weatherbit.io/v2.0/forecast/daily/?key=${process.env.WEATHER_API_KEY}&lang=en&lat=${latitude}&lon=${longitude}&days=3`;
+  const url = `https://api.weatherbit.io/v2.0/forecast/daily/?key=${process.env.WEATHER_API_KEY}&lang=en&lat=${latitude}&lon=${longitude}&days=3`;
 
   if (cache[key] && (Date.now() - cache[key].timestamp < 50000)) {
     console.log('weather Cache hit');
