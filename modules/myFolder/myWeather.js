@@ -30,7 +30,7 @@ async function getWeather(request, response, next) {
         lat: lat,
         lon: lon,
       };
-      let baseURL = 'http://api.weatherbit.io/v2.0/forecast/daily';
+      let baseURL = 'https://api.weatherbit.io/v2.0/forecast/daily';
       let results = await axios.get(baseURL, { params });
       let forecastArr = results.data.data.map((day) => new Forecast(day));
 
