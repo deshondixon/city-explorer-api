@@ -5,7 +5,7 @@ const express = require('express');
 const cors = require('cors');
 
 const weather = require('./modules/weather.js');
-const getMovies = require('./modules/myMovies.js');
+const getMovies = require('./modules/movies.js');
 const app = express();
 app.use(cors());
 const PORT = process.env.PORT || 3002;
